@@ -4,7 +4,7 @@ A professional, feature-rich community platform for travelers to discover global
 
 ---
 
-## 📸 App Showcase
+## 📸 Traveler App 
 
 <p align="center">
 <img src="home.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="app.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="flutter.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="login.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;
