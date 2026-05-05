@@ -8,7 +8,7 @@ A professional community platform for travelers built with **Flutter** and **Fir
 
 
 
-<img src="home.png" width="180" style="margin-right: 20px;">  <img src="app.png" width="180" style="margin-right: 20px;">>  <img src="flutter.png" width="200">  <img src="login.png" width="200"> 
+<img src="home.png" width="180" style="margin-right: 30px;">  <img src="app.png" width="180" style="margin-right: 30px;">>  <img src="flutter.png" width="200">  <img src="login.png" width="200"> 
 
 | <img src="home.png" width="200"> | <img src="app.png" width="200"> | <img src="flutter.png" width="200"> | <img src="login.png" width="200"> |
 
