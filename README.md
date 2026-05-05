@@ -80,8 +80,38 @@ All apps will use routing for navigating to some screen or page. This is our rou
 
 ---
 
-## ⚙️ Getting Started
+## 🤝 How can I contribute?
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/aishwarya-h-2005/Travelers_App.git](https://github.com/aishwarya-h-2005/Travelers_App.git)
+Before you start making contribution make these things clear:
+
+1. Don't make spam PR's like just add adding (,) and spaces in the file.
+2. Make sure you add some value to the repository.
+3. Spam PR's won't get merged.
+4. Go click and check the link above "How can I contribute?" 👀
+
+### NOTE:
+* Make Sure you commit your changes in a new branch.
+* Make Sure you Give proper name to your files describing the addition.
+* Also Make Sure you comment your code wherever necessary.
+* And last but not least, don't forget to read and keep updated with the documentation of the project **above** after you made your changes/modifications.
+
+After a valid pull request, your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file. This process may take some time but don't worry.
+
+---
+
+## 📊 REPO STATUS
+
+![Pull Requests](https://img.shields.io/github/issues-pr/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=blue)
+![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=green)
+![Languages](https://img.shields.io/github/languages/count/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=orange)
+
+---
+
+## 👥 Our Contributors
+
+<a href="https://github.com/aishwarya-h-2005/Travelers_App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aishwarya-h-2005/Travelers_App" />
+</a>
+
+---
+*Made with ❤️ for the traveling community.*
