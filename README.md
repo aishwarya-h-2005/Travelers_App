@@ -6,15 +6,11 @@ A professional community platform for travelers built with **Flutter** and **Fir
 
 ## 📸 App Showcase
 
-<div align="center">
-
 | | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="home.png" width="165"> | <img src="app.png" width="165"> | <img src="flutter.png" width="165"> | <img src="login.png" width="165"> |
-| <img src="homepaje_insideflutter.png" width="165"> | <img src="top_paces.png" width="165"> | <img src="inside_bali.png" width="165"> | <img src="inside_france.png" width="165"> |
-| <img src="upload_post.png" width="165"> | <img src="destination.png" width="165"> | <img src="comment.png" width="165"> | <img src="like.png" width="165"> |
-
-</div>
+|---|---|---|---|
+| <img src="home.png" width="180"> | <img src="app.png" width="180"> | <img src="flutter.png" width="180"> | <img src="login.png" width="180"> |
+| <img src="homepaje_insideflutter.png" width="180"> | <img src="top_paces.png" width="180"> | <img src="inside_bali.png" width="180"> | <img src="inside_france.png" width="180"> |
+| <img src="upload_post.png" width="180"> | <img src="destination.png" width="180"> | <img src="comment.png" width="180"> | <img src="like.png" width="180"> |
 
 ---
 
@@ -26,5 +22,4 @@ A professional community platform for travelers built with **Flutter** and **Fir
 ## 🛠️ Tech Stack
 * **Frontend:** Flutter (Dart)
 * **Backend:** Firebase Firestore & Storage
-
----
+*
