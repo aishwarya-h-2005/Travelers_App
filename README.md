@@ -40,35 +40,23 @@ A professional, feature-rich community platform for travelers to discover global
 
 ---
 
-## ⚙️ Installation & Setup
+## 📂 Project Structure
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/aishwarya-h-2005/Travelers_App.git](https://github.com/aishwarya-h-2005/Travelers_App.git)
-    ```
-2.  **Navigate to Project Directory:**
-    ```bash
-    cd Travelers_App
-    ```
-3.  **Install Dependencies:**
-    ```bash
-    flutter pub get
-    ```
-4.  **Connect Firebase:**
-    Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) to the respective folders.
-5.  **Run the App:**
-    ```bash
-    flutter run
-    ```
+This is the directory structure for the Travelers App, organized for high scalability and maintainability.
 
----
-
-## 🤝 Connect With Me
-
-If you have any questions or want to collaborate, feel free to reach out!
-
-* **GitHub:** [@aishwarya-h-2005](https://github.com/aishwarya-h-2005)
-* **Project Link:** [Travelers App Repository](https://github.com/aishwarya-h-2005/Travelers_App)
-
----
-*Made with ❤️ for the traveling community.*
+```text
+lib/
+├── ui/
+│   ├── pages/
+│   │   ├── login_page.dart
+│   │   ├── home_page.dart
+│   │   ├── post_upload_page.dart
+│   │   └── profile_page.dart
+│   ├── widgets/
+│   │   ├── app_button.dart
+│   │   └── travel_card.dart
+├── utils/
+│   ├── app_color.dart
+│   ├── app_router.dart
+│   └── app_typography.dart
+└── main.dart
