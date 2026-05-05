@@ -1,24 +1,25 @@
-# 🌍 Travelers - Social App
+# 🌍 Travelers - Social Travel App
 
-A professional mobile application for travelers to explore the world.
+A professional community platform for travelers built with **Flutter** and **Firebase**.
 
 ---
 
-## 📸 App Showcase
+## 📸 App Screenshots
 
-| Welcome & Main | Explore & Create |
-| :-: | :-: |
-| <img src="login.png" width="220"> | <img src="home.png" width="220"> |
-| <img src="destination.png" width="220"> | <img src="upload_post.png" width="220"> |
+| Login | Home | Destinations | Post Upload | Comments |
+| :-: | :-: | :-: | :-: | :-: |
+| <img src="login.png" width="160"> | <img src="home.png" width="160"> | <img src="destination.png" width="160"> | <img src="upload_post.png" width="160"> | <img src="comment.png" width="160"> |
+| **Bali Trip** | **France View** | **Top Places** | **Like/Social** | **App Main** |
+| <img src="inside_bali.png" width="160"> | <img src="inside_france.png" width="160"> | <img src="top_paces.png" width="160"> | <img src="like.png" width="160"> | <img src="app.png" width="160"> |
 
 ---
 
 ## 🚀 Key Features
-* **Firebase Auth:** Secure Login and Registration.
-* **Real-time Posts:** Share travel photos instantly.
-* **Destination Search:** Find top places globally.
+* **Firebase Auth:** Secure Login and Signup functionality.
+* **Social Feed:** Share travel memories with the community.
+* **Global Search:** Discover your next destination easily.
 
 ## 🛠️ Tech Stack
-* **Frontend:** Flutter & Dart
-* **Backend:** Firebase Firestore
+* **Frontend:** Flutter (Dart)
+* **Backend:** Firebase Firestore & Storage
 *
