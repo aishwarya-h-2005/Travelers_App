@@ -49,11 +49,9 @@ This is a brief explanation about the folder structure used in this project:
 
 In this project, we try to organize all the base sources like color, routes, and typography as well as we can. So we can easily use them for any screen widgets or widgets we want. The developer should follow the below-mentioned instruction when developing a new widget or modifying any part of the Travelers App.
 
-1. **AppColors ( `lib/utils/app_color.dart` ) :-** This is the primary script/code that manages the application color scheme. Therefore, the developer should stick with the pre-defined color scheme. If there is a need to introduce a new color, it must be handled through this script. We can declare a new color in this file.
-
+1. **AppColors ( `lib/utils/app_color.dart` ) :-** This is the primary script/code that manages the application color scheme. Therefore, the developer should stick with the pre-defined color scheme.
 2. **AppRouter :-** We can declare all the screens with each data for what we need on this file to make it easy to implement the navigation.
-
-3. **AppTypography :-** This is the primary script/code that manages the application typography. We used Poppins as a base font family. If there is a need to introduce a new font family or font size and color to easily use it, it must be handled through this script.
+3. **AppTypography :-** This is the primary script/code that manages the application typography. We used Poppins as a base font family.
 
 ---
 
@@ -82,8 +80,38 @@ All apps will use routing for navigating to some screen or page. This is our rou
 
 ---
 
-## ⚙️ Getting Started
+## 🤝 How can I contribute?
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/aishwarya-h-2005/Travelers_App.git](https://github.com/aishwarya-h-2005/Travelers_App.git)
+Before you start making contribution make these things clear:
+
+1. Don't make spam PR's like just add adding (,) and spaces in the file.
+2. Make sure you add some value to the repository.
+3. Spam PR's won't get merged.
+4. Go click and check the link above "How can I contribute?" 👀
+
+### NOTE:
+* Make Sure you commit your changes in a new branch.
+* Make Sure you Give proper name to your files describing the addition.
+* Also Make Sure you comment your code wherever necessary.
+* And last but not least, don't forget to read and keep updated with the documentation of the project **above** after you made your changes/modifications.
+
+After a valid pull request, your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file. This process may take some time but don't worry.
+
+---
+
+## 📊 REPO STATUS
+
+![Pull Requests](https://img.shields.io/github/issues-pr/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=blue)
+![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=green)
+![Languages](https://img.shields.io/github/languages/count/aishwarya-h-2005/Travelers_App?style=for-the-badge&color=orange)
+
+---
+
+## 👥 Our Contributors
+
+<a href="https://github.com/aishwarya-h-2005/Travelers_App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aishwarya-h-2005/Travelers_App" />
+</a>
+
+---
+*Made with ❤️ for the traveling community.*
