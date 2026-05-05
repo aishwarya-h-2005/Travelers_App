@@ -45,18 +45,40 @@ This is a brief explanation about the folder structure used in this project:
 
 ---
 
+## 📦 Project Dependencies
+
+We use dependencies/packages from any source such as [pub.dev](https://pub.dev). This is a list of packages that currently work on the project:
+
+| Dependency | Description |
+|:---|:---|
+| **cupertino_icons** | iOS style icons (Dependency packaged with flutter sdk) |
+| **google_fonts** | A Flutter package to use fonts from fonts.google.com |
+| **firebase_core** | Essential package to initialize Firebase services |
+| **cloud_firestore** | Flutter plugin for Cloud Firestore, a cloud-based NoSQL database |
+
+---
+
+## 🗺️ Application Routing
+
+All apps will use routing for navigating to some screen or page. This is our routes on the project:
+
+| Route | Key | Screen | Related Screen |
+|:---|:---|:---|:---|
+| **loginPage** | `login_page` | LoginPage | Initial screen for user authentication |
+| **homePage** | `home_page` | HomePage | Main Page screen or we can call it home screen |
+| **postUpload** | `upload_page` | PostUploadPage | Screen for sharing new travel memories |
+
+---
+
 ## 🛠️ Tech Stack
 
-* **Frontend:** [Flutter](https://flutter.dev/) (Dart) - Cross-platform UI development.
-* **Database:** [Firebase Firestore](https://firebase.google.com/docs/firestore) - Real-time NoSQL database.
-* **Storage:** [Firebase Storage](https://firebase.google.com/docs/storage) - Media hosting for travel photos.
-* **Backend Services:** Firebase Auth & Cloud Functions.
+* **Frontend:** [Flutter](https://flutter.dev/) (Dart)
+* **Database:** [Firebase Firestore](https://firebase.google.com/docs/firestore)
+* **Storage:** [Firebase Storage](https://firebase.google.com/docs/storage)
 
 ---
 
 ## ⚙️ Getting Started
-
-We use packages from [pub.dev](https://pub.dev). This is a list of packages used on the project. Follow these steps to run the app:
 
 1. **Clone the Repository:**
    ```bash
