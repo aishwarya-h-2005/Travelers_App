@@ -107,7 +107,7 @@ After a valid pull request, your code will be carefully reviewed and if it match
 
 ---
 
-## 👥 Our Contributors
+## Project Creator
 
 <a href="https://github.com/aishwarya-h-2005/Travelers_App/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aishwarya-h-2005/Travelers_App" />
