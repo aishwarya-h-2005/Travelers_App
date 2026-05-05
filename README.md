@@ -31,6 +31,20 @@ A professional, feature-rich community platform for travelers to discover global
 
 ---
 
+## 📂 Project Structure
+
+This is a brief explanation about the folder structure used in this project:
+
+| Directory | Description |
+|:---|:---|
+| **lib/** | Application core scripts |
+| **lib/ui** | Application UI screens/pages and widgets |
+| **lib/ui/pages** | All UI screens/pages widgets |
+| **lib/ui/widgets** | All reusable UI widgets |
+| **lib/utils** | Application styles, router, and miscellaneous utility scripts |
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** [Flutter](https://flutter.dev/) (Dart) - Cross-platform UI development.
@@ -40,23 +54,10 @@ A professional, feature-rich community platform for travelers to discover global
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Getting Started
 
-This is the directory structure for the Travelers App, organized for high scalability and maintainability.
+We use packages from [pub.dev](https://pub.dev). This is a list of packages used on the project. Follow these steps to run the app:
 
-```text
-lib/
-├── ui/
-│   ├── pages/
-│   │   ├── login_page.dart
-│   │   ├── home_page.dart
-│   │   ├── post_upload_page.dart
-│   │   └── profile_page.dart
-│   ├── widgets/
-│   │   ├── app_button.dart
-│   │   └── travel_card.dart
-├── utils/
-│   ├── app_color.dart
-│   ├── app_router.dart
-│   └── app_typography.dart
-└── main.dart
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/aishwarya-h-2005/Travelers_App.git](https://github.com/aishwarya-h-2005/Travelers_App.git)
