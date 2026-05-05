@@ -14,28 +14,7 @@ A professional community platform for travelers built with **Flutter** and **Fir
 
 <img src="upload_post.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="destination.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="comment.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="like.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="home.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="app.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="flutter.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;  <img src="login.png" width="180"> &nbsp; &nbsp; &nbsp; &nbsp;
 
-
-| <img src="home.png" width="200"> | <img src="app.png" width="200"> | <img src="flutter.png" width="200"> | <img src="login.png" width="200"> |
-
-
-| Row 2 | Row 2 | Row 2 |
-| :-: | :-: | :-: |
-| <img src="login.png" width="200"> | <img src="home_inside.png" width="200"> | <img src="top_paces.png" width="200"> |
-| **Login** | **Home Inside** | **Top Places** |
-
-| Row 3 | Row 3 | Row 3 |
-| :-: | :-: | :-: |
-| <img src="inside_bali.png" width="200"> | <img src="inside_france.png" width="200"> | <img src="upload_post.png" width="200"> |
-| **Inside Bali** | **Inside France** | **Post Upload** |
-
-| Row 4 | Row 4 | Row 4 |
-| :-: | :-: | :-: |
-| <img src="destination.png" width="200"> | <img src="comment.png" width="200"> | <img src="like.png" width="200"> |
-| **Destination** | **Comment** | **Like** |
-
----
 
 ## 🚀 Key Features
 * **Firebase Auth:** Secure Login and Signup functionality.
