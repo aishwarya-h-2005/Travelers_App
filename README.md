@@ -45,6 +45,18 @@ This is a brief explanation about the folder structure used in this project:
 
 ---
 
+## 🛠️ Utility
+
+In this project, we try to organize all the base sources like color, routes, and typography as well as we can. So we can easily use them for any screen widgets or widgets we want. The developer should follow the below-mentioned instruction when developing a new widget or modifying any part of the Travelers App.
+
+1. **AppColors ( `lib/utils/app_color.dart` ) :-** This is the primary script/code that manages the application color scheme. Therefore, the developer should stick with the pre-defined color scheme. If there is a need to introduce a new color, it must be handled through this script. We can declare a new color in this file.
+
+2. **AppRouter :-** We can declare all the screens with each data for what we need on this file to make it easy to implement the navigation.
+
+3. **AppTypography :-** This is the primary script/code that manages the application typography. We used Poppins as a base font family. If there is a need to introduce a new font family or font size and color to easily use it, it must be handled through this script.
+
+---
+
 ## 📦 Project Dependencies
 
 We use dependencies/packages from any source such as [pub.dev](https://pub.dev). This is a list of packages that currently work on the project:
@@ -62,19 +74,11 @@ We use dependencies/packages from any source such as [pub.dev](https://pub.dev).
 
 All apps will use routing for navigating to some screen or page. This is our routes on the project:
 
-| Route | Key | Screen | Related Screen |
+| Route | Key | Screen | Related screen |
 |:---|:---|:---|:---|
 | **loginPage** | `login_page` | LoginPage | Initial screen for user authentication |
 | **homePage** | `home_page` | HomePage | Main Page screen or we can call it home screen |
 | **postUpload** | `upload_page` | PostUploadPage | Screen for sharing new travel memories |
-
----
-
-## 🛠️ Tech Stack
-
-* **Frontend:** [Flutter](https://flutter.dev/) (Dart)
-* **Database:** [Firebase Firestore](https://firebase.google.com/docs/firestore)
-* **Storage:** [Firebase Storage](https://firebase.google.com/docs/storage)
 
 ---
 
