@@ -1,17 +1,24 @@
-## 📸 App Preview
+# 🌍 Travelers - Social App
 
-<p align="center">
-  <img src="home.png" width="180" />
-  <img src="app.png" width="180" />
-  <img src="flutter.png" width="180" />
-  <img src="login" width="180" />
-  <img src="homepaje_insideflutter.png" width="180" />
-  <img src="top_paces.png" width="180" />
-  <img src="inside_bali.png" width="180" />
-  <img src="inside_france.png" width="180" />
-  <img src="upload_post.png" width="180" />
-  <img src="destination.png" width="180" />
-  <img src="comment.png" width="180" />
-    <img src="like.png" width="180" />
-  
-</p>
+A professional mobile application for travelers to explore the world.
+
+---
+
+## 📸 App Showcase
+
+| Welcome & Main | Explore & Create |
+| :-: | :-: |
+| <img src="login.png" width="220"> | <img src="home.png" width="220"> |
+| <img src="destination.png" width="220"> | <img src="upload_post.png" width="220"> |
+
+---
+
+## 🚀 Key Features
+* **Firebase Auth:** Secure Login and Registration.
+* **Real-time Posts:** Share travel photos instantly.
+* **Destination Search:** Find top places globally.
+
+## 🛠️ Tech Stack
+* **Frontend:** Flutter & Dart
+* **Backend:** Firebase Firestore
+*
